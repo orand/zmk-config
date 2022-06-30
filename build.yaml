@@ -14,6 +14,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: orankey_left
+    shield: boards/shields/orankey/orankey_left
   - board: nice_nano_v2
-    shield: orankey_right
+    shield: boards/shields/orankey/orankey_right
